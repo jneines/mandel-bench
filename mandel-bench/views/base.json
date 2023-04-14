@@ -1,0 +1,9 @@
+{
+    "name": "base",
+    "x_min": -2.5,
+    "x_max": 1,
+    "y_min": -1.25,
+    "y_max": 1.25,
+    "max_iterations": 100,
+    "resolution": 1000
+}
